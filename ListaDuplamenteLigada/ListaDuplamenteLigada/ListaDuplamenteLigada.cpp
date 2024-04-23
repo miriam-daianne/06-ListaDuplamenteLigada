@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//Por Míriam Daianne
 // definicao de tipo
 struct NO {
 	int valor;
